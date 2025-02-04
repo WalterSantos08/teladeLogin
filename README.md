@@ -40,10 +40,13 @@ Se o projeto requer um servidor para funcionar corretamente, siga os passos abai
   - Validação de credenciais de usuário.
 - **Cadastro de Novo Usuário:**
   - Formulário para registro de novos usuários.
+
+
  
  
+## Tela de Login
 
-  
+![logiin](https://github.com/user-attachments/assets/ae097369-60b2-4698-a43c-d10615ebf2bf)
 
-
-
+## Cadastro
+![telacadastro](https://github.com/user-attachments/assets/eae6a573-e530-44e7-b61b-1bc7afd6f374)
