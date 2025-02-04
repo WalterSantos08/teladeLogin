@@ -17,7 +17,7 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
 
     if (email === savedEmail && password === savedPassword) {
         alert("Login realizado com sucesso!");
-        window.location.href = "https://www.youtube.com/watch?v=UhbkSaegSuk"; // Redireciona para uma nova página
+        window.location.href = "https://waltersantosdev.netlify.app/"; // Redireciona para uma nova página
     } else {
         alert("E-mail ou senha incorretos. Tente novamente.");
     }
